@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/floor with lightning.unity
+    guid: 0fb69ba609c0906429b1ac40813be197
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 8661eb1c55f31d8438a1a9b4281e8bda
   m_configObjects: {}
